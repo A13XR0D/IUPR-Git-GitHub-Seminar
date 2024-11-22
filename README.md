@@ -7,7 +7,7 @@ Here, you will contribute onto the Practice.py a print statement with your name,
 
 Sample Code: Print("Juan del Pueblo, 26, Computer Science, 3rd")
 
-Please be respectful and profesional, this repo will be monitored.
+Please be respectful and profesional, this repo will be monitored!
 
 Any and all push requests will be proofread before being approved for a merge.
 
