@@ -1,4 +1,4 @@
-# IUPR-Git-GitHub-Seminar
+# UIPR-Git-GitHub-Seminar
 Repo created to help Inter American University students practice how to interact with a public repo on GitHub.
 
 This repo was created for the public use of the IUPR alumni.
